@@ -1,0 +1,80 @@
+.h2{
+    background-image: url("https://wallpaperaccess.com/full/1635214.jpg");
+    background-size: 1920px 1080px;
+}
+    
+.head1{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 130px;
+}
+.card{
+    margin: 20px;
+    display: inline-block;
+}
+
+.hi1{
+    background-image: url("https://wallpaperaccess.com/full/1635210.jpg");
+    background-size: cover;
+}
+.navigation{
+        display: flex;
+        margin-left: 4450px;
+        background: linear-gradient(to right, #f5f5dc, #e6d3b3);
+        border-radius: 56px;    
+        padding: 55px 65px;
+
+    }
+    .contact{
+        background-image: url("https://wallpaperaccess.com/full/1635210.jpg");
+        background-size: 1920px 1080px;
+    }
+    .co1{
+    text-align: center;
+    color: white;
+    padding: 80px;
+    }
+    .font1{
+        text-align: center;
+    color: rgba(25, 15, 15, 0.29);
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 130px;
+    }
+    .mlp1{
+        background-image: url("https://tripunplanned.com/wp-content/uploads/2024/07/kakkadampoyil-images-edited-1024x576.jpg");
+        background-size: cover;
+    }
+    .car1{
+        margin: auto;
+        padding: auto;
+    }
+    .font2{
+        text-align: center;
+    color: rgba(221, 211, 211, 0.877);
+    font-size: 30px;
+    font-family: font-family:'Baloo 2', cursive;
+    
+    }
+    .co11{
+        display: flex;
+    justify-content: center;   /* center horizontally */
+    gap: 20px; 
+    text-align: center;
+    color: white;
+    padding: 100px;
+     display: flex;
+     font-size: 30px;
+     font-family: 'Baloo 2', cursive;
+     text-decoration: none;
+     margin: 20px;
+     
+     border-radius: 10px;
+     width: 200px;
+     margin-left: 650px;
+    
+    
+    }
+    .font1{

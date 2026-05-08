@@ -1,0 +1,34 @@
+h2{
+        color: brown;
+        text-align: left;
+        height: 10px;
+        font-size: large;
+    }
+    p{
+        color: darkslategray;
+    }
+    img{
+        border-style: double;
+    }
+    body
+    {
+        border-style: dotted;color: rgb(44, 105, 158);
+    }
+    h1{
+        color: blueviolet;
+        
+    }
+    #ABOUT_ME{
+        color: green;
+    }
+    .CHANGE{
+        color: rgb(159, 221, 25);
+    }
+    .NAV{
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+    }
+    li{
+        list-style-type: none;
+    }
